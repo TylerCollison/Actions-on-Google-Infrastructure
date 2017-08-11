@@ -1,0 +1,6 @@
+com.bankofamerica.boatestapplication
+com.bankofamerica.boatestapplication.LocalFulfillment
+com.bankofamerica.boatestapplication.LocalFulfillment.JSON
+com.bankofamerica.boatestapplication.Services
+com.bankofamerica.boatestapplication.WebSockets
+com.bankofamerica.boatestapplication.WebSockets.Events

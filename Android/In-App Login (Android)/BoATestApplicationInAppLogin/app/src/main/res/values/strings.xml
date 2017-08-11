@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BoA Test Application In-App Login</string>
+    <string name="settings">com.BankofAmerica.BoATestApplicationInAppLogin.settings</string>
+    <string name="googleUserId">com.BankofAmerica.BoATestApplicationInAppLogin.googleUserId</string>
+    <string name="appwidget_text">Login to Google Home</string>
+    <string name="add_widget">Add widget</string>
+    <string name="fulfillment_end_point">https://aog-fulfillment-in-app-login.herokuapp.com</string>
+    <string name="login_button_click_intent">LOGIN_BUTTON_CLICK</string>
+    <string name="action_auto_update_intent">AUTO_UPDATE</string>
+    <string name="user_id_query_string_name">user_id</string>
+    <string name="conversation_id_query_string_name">conversation_id</string>
+</resources>

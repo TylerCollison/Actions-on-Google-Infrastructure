@@ -1,0 +1,5 @@
+{
+    "conversation_id":"CONVERSATION_ID",
+    "type":"response",
+    "response":"RESPONSE_STRING"
+}
